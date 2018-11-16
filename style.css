@@ -1,0 +1,17 @@
+/*
+Theme Name:         Dr. Peter Loisides
+Theme URI:          http://www.mdpeter.com
+Description:        Dr. Peter Loisides is Board Certified from The American Board of Urology. He is dedicated to improving the lives of patients with innovative evidence-based therapies along with outstanding surgical expertise and personalized care. He strongly believes in empowering his patients with knowledge and encourages patients to take an active role in their health care including lifestyle modification, diet and through the use of supplements.
+Version:            0.0.1
+Author:             TechyScouts
+Author URI:         http://techyscouts.com
+Text Domain:        mdpeter
+
+License:            Proprietary
+*/
+.bottom-list.list-inline a img.img-responsive {
+   width: inherit;
+   margin: auto;
+   min-height: 124px;
+}
+.div-center{float: none;margin: auto;display: inline-block;}
